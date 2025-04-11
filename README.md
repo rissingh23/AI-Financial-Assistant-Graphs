@@ -30,7 +30,9 @@ git clone https://github.com/your-username/financial-ai-assistant.git
 cd financial-ai-assistant
 cd frontend
 npm install
+npm run dev
 cd ..
 cd backend
 pip install -r requirements.txt
+python main.py
 **
