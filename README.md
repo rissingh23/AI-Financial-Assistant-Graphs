@@ -32,7 +32,9 @@ cd frontend
 npm install
 npm run dev
 cd ..
+
 cd backend
+create file "API_KEY" with no extension and insert OpenAI API key into file, no extra input.
 pip install -r requirements.txt
 python main.py
 **
